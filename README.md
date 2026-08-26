@@ -105,6 +105,7 @@ I particularly enjoy taking raw information, finding patterns and turning it int
 
 ## ⚡ A Little More About Me
 
+⛳ A member of a local golf society
 ⚽ I play football in a local 5-a-side league
 🎮 I enjoy gaming on PC and console
 📚 I'm an avid reader/audiobook listener, particularly history
