@@ -102,11 +102,10 @@ I particularly enjoy taking raw information, finding patterns and turning it int
 🔹 Develop into a confident Data Analyst
 
 📚 My Data Journey
-
 Property Manager/Leasing Associate
               │
               ▼
-       Submitting reports
+       Excel & Reporting
               │
               ▼
        Data Technician Bootcamp
@@ -124,6 +123,7 @@ Property Manager/Leasing Associate
               │
               ▼
       🚀 Data Analytics Career
+
 
 ---
 
