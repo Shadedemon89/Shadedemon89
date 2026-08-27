@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Anderson
+# 👋 Hi, I'm Rob
 
 ### 📊 Aspiring Junior Data Analyst | Data Technician | Property & Banking Background
 
