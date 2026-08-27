@@ -113,29 +113,7 @@ I particularly enjoy taking raw information, finding patterns and turning it int
 🎿 I'm also a keen skier
 
 ---
-📚 My Data Journey
-Property Manager/Leasing Associate
-              │
-              ▼
-       Excel & Reporting
-              │
-              ▼
-       Data Technician Bootcamp
-              │
-       ┌──────┼────────┐
-       ▼      ▼        ▼
-      SQL   Tableau   Power BI
-       │      │        │
-       └──────┼────────┘
-              ▼
-           Python
-              │
-              ▼
-       Azure & Cloud Data
-              │
-              ▼
-      🚀 Data Analytics Career
----      
+     
 ### 📫 Let's Connect
 
 I'm currently looking to connect with other people working in **Data Analytics, Business Intelligence and Technology**.
