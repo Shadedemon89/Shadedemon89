@@ -101,6 +101,30 @@ I particularly enjoy taking raw information, finding patterns and turning it int
 🔹 Continue learning cloud technologies
 🔹 Develop into a confident Data Analyst
 
+📚 My Data Journey
+
+Property Manager/Leasing Associate
+              │
+              ▼
+       Submitting reports
+              │
+              ▼
+       Data Technician Bootcamp
+              │
+       ┌──────┼────────┐
+       ▼      ▼        ▼
+      SQL   Tableau   Power BI
+       │      │        │
+       └──────┼────────┘
+              ▼
+           Python
+              │
+              ▼
+       Azure & Cloud Data
+              │
+              ▼
+      🚀 Data Analytics Career
+
 ---
 
 ## ⚡ A Little More About Me
