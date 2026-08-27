@@ -101,6 +101,18 @@ I particularly enjoy taking raw information, finding patterns and turning it int
 🔹 Continue learning cloud technologies
 🔹 Develop into a confident Data Analyst
 
+
+---
+
+## ⚡ A Little More About Me
+
+⛳ A member of a local golf society
+⚽ I play football in a local 5-a-side league
+🎮 I enjoy gaming on PC and console
+📚 I'm an avid reader/audiobook listener, particularly history
+🎿 I'm also a keen skier
+
+---
 📚 My Data Journey
 Property Manager/Leasing Associate
               │
@@ -123,20 +135,7 @@ Property Manager/Leasing Associate
               │
               ▼
       🚀 Data Analytics Career
-
-
----
-
-## ⚡ A Little More About Me
-
-⛳ A member of a local golf society
-⚽ I play football in a local 5-a-side league
-🎮 I enjoy gaming on PC and console
-📚 I'm an avid reader/audiobook listener, particularly history
-🎿 I'm also a keen skier
-
----
-
+---      
 ### 📫 Let's Connect
 
 I'm currently looking to connect with other people working in **Data Analytics, Business Intelligence and Technology**.
